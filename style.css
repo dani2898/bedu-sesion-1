@@ -1,0 +1,20 @@
+input{
+    margin-bottom: 10px;
+}
+
+body{
+    background-color: #ffc;
+}
+
+h1{
+    color: #46484c;
+}
+
+#promocional{
+    color:#8b8b8bcc;
+}
+
+#btn-txt{
+    color:#fff;
+    background-color: #025157;
+}
